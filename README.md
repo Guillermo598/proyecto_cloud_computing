@@ -17,6 +17,11 @@ En segundo lugar, el repositorio permite funcionar como un *sandbox* en el cual 
 ### Funcionalidad
 
 ## ¿Cómo lo vamos a medir?
+![image](https://user-images.githubusercontent.com/38139707/178636104-328bd6b8-d321-43e7-9103-3557a5b52f5a.png)
+
+![image](https://user-images.githubusercontent.com/38139707/178636085-91966265-5b98-44d8-a90a-d6eb2dd9388d.png)
+
+![image](https://user-images.githubusercontent.com/38139707/178636066-90a2887f-777b-4a67-8ec1-def8f38b7d6d.png)
 
 ### Referencias
 * https://github.com/instana/robot-shop
